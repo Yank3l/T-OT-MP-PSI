@@ -1,0 +1,15 @@
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/CMakeFiles/edit_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/CMakeFiles/rebuild_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/cryptoTools/CMakeFiles/sha_asm.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/cryptoTools/CMakeFiles/cryptoTools.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/cryptoTools/CMakeFiles/edit_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/cryptoTools/CMakeFiles/rebuild_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/libOTe/CMakeFiles/libOTe.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/libOTe/CMakeFiles/edit_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/libOTe/CMakeFiles/rebuild_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/libOPRF/CMakeFiles/libOPRF.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/libOPRF/CMakeFiles/edit_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/libOPRF/CMakeFiles/rebuild_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/frontend/CMakeFiles/frontend.exe.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/frontend/CMakeFiles/edit_cache.dir
+/root/snap/TOTMPPSI/ET-OT-MP-PSI/frontend/CMakeFiles/rebuild_cache.dir
