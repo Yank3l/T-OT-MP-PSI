@@ -1,7 +1,0 @@
-/home/aries/Desktop/new/ST-OT-MP-PSI/libOLE/third_party/cryptoTools/cryptoTools/CMakeFiles/cryptoTools.dir
-/home/aries/Desktop/new/ST-OT-MP-PSI/libOLE/third_party/cryptoTools/cryptoTools/CMakeFiles/edit_cache.dir
-/home/aries/Desktop/new/ST-OT-MP-PSI/libOLE/third_party/cryptoTools/cryptoTools/CMakeFiles/rebuild_cache.dir
-/home/aries/Desktop/new/ST-OT-MP-PSI/libOLE/third_party/cryptoTools/cryptoTools/CMakeFiles/list_install_components.dir
-/home/aries/Desktop/new/ST-OT-MP-PSI/libOLE/third_party/cryptoTools/cryptoTools/CMakeFiles/install.dir
-/home/aries/Desktop/new/ST-OT-MP-PSI/libOLE/third_party/cryptoTools/cryptoTools/CMakeFiles/install/local.dir
-/home/aries/Desktop/new/ST-OT-MP-PSI/libOLE/third_party/cryptoTools/cryptoTools/CMakeFiles/install/strip.dir
