@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "../lib/liblibOTe.a"
+  "../lib/liblibOTe.pdb"
+  "CMakeFiles/libOTe.dir/Base/naor-pinkas.cpp.o"
+  "CMakeFiles/libOTe.dir/Base/naor-pinkas.cpp.o.d"
+  "CMakeFiles/libOTe.dir/NChooseK/AknOtReceiver.cpp.o"
+  "CMakeFiles/libOTe.dir/NChooseK/AknOtReceiver.cpp.o.d"
+  "CMakeFiles/libOTe.dir/NChooseK/AknOtSender.cpp.o"
+  "CMakeFiles/libOTe.dir/NChooseK/AknOtSender.cpp.o.d"
+  "CMakeFiles/libOTe.dir/NChooseOne/KkrtNcoOtReceiver.cpp.o"
+  "CMakeFiles/libOTe.dir/NChooseOne/KkrtNcoOtReceiver.cpp.o.d"
+  "CMakeFiles/libOTe.dir/NChooseOne/KkrtNcoOtSender.cpp.o"
+  "CMakeFiles/libOTe.dir/NChooseOne/KkrtNcoOtSender.cpp.o.d"
+  "CMakeFiles/libOTe.dir/NChooseOne/Oos/OosNcoOtReceiver.cpp.o"
+  "CMakeFiles/libOTe.dir/NChooseOne/Oos/OosNcoOtReceiver.cpp.o.d"
+  "CMakeFiles/libOTe.dir/NChooseOne/Oos/OosNcoOtSender.cpp.o"
+  "CMakeFiles/libOTe.dir/NChooseOne/Oos/OosNcoOtSender.cpp.o.d"
+  "CMakeFiles/libOTe.dir/Tools/LinearCode.cpp.o"
+  "CMakeFiles/libOTe.dir/Tools/LinearCode.cpp.o.d"
+  "CMakeFiles/libOTe.dir/Tools/Tools.cpp.o"
+  "CMakeFiles/libOTe.dir/Tools/Tools.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/IknpOtExtReceiver.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/IknpOtExtReceiver.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/IknpOtExtSender.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/IknpOtExtSender.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosDotExtReceiver.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosDotExtReceiver.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosDotExtSender.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosDotExtSender.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosOtExtReceiver.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosOtExtReceiver.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosOtExtSender.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/KosOtExtSender.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/LzKosOtExtReceiver.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/LzKosOtExtReceiver.cpp.o.d"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/LzKosOtExtSender.cpp.o"
+  "CMakeFiles/libOTe.dir/TwoChooseOne/LzKosOtExtSender.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/libOTe.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
